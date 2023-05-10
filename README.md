@@ -6,4 +6,4 @@ Despite the growing popularity of online retail, many businesses struggle to ful
 3. Perform clustering of customers in terms of product purchases, geographical location etc. 
 4. Use LOF to try identify anomalous customer behavior
 
-
+The dataset can be found at: (https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
